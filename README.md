@@ -1,5 +1,4 @@
-# IdeaSoft Case
-## _Sipariş ve İndirim Modülü_
+# _Sipariş ve İndirim Modülü_
 
 Mail ile iletmiş olduğunuz case projesinin dosyaları ve endpointleri bu dökümanda yeralmaktadır.
 
